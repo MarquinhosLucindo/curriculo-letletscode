@@ -503,7 +503,7 @@ img {
   }
 
   .languages__content {
-    grid-template-columns: repeat(3, max-content);
+    grid-template-columns: repeat(3, 1fr);
     column-gap: 3.5rem;
   }
 
